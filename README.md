@@ -1,12 +1,12 @@
-# 📱 OtakuHub
+# 📱 HobbyHub
 
-OtakuHub is a modern Kotlin Android app built with Jetpack Compose for tracking your hobbies — anime you're watching, games you're playing, and Pokémon cards you're collecting.
+HobbyHub is a modern Kotlin Android app built with Jetpack Compose for tracking your hobbies — shows/movies you're watching, games you're playing, and Pokémon cards you're collecting.
 
 ---
 
 ## ✨ Features
 
-- 🧠 Track anime progress (title, episodes watched)
+- 🧠 Track show progress (title, episodes watched)
 - 🎮 View and manage games (platforms, playtime, status)
 - 🃏 Organize your Pokémon TCG collection (cards, sets, ownership)
 - 🔄 Tab-based layout with contextual FABs
@@ -18,9 +18,9 @@ OtakuHub is a modern Kotlin Android app built with Jetpack Compose for tracking 
 
 ## 📸 Screenshots (Coming Soon)
 
-| Home Screen | Anime Tab | Game Tab | Pokémon Tab |
+| Home Screen | Tv show Tab | Game Tab | Pokémon Tab |
 |-------------|-----------|----------|-------------|
-| ![home](screenshots/home.png) | ![Anime](https://github.com/user-attachments/assets/7c242d3c-b0f1-422e-afed-97b1009426ca)| ![Game](https://github.com/user-attachments/assets/4611a789-42df-4937-8491-3422804dbe91)| ![Card](https://github.com/user-attachments/assets/8f086022-0f4a-4f11-b9b9-88f959cd53a8) |
+| ![home](screenshots/home.png) | ![Tv-shows](https://github.com/user-attachments/assets/7c242d3c-b0f1-422e-afed-97b1009426ca)| ![Game](https://github.com/user-attachments/assets/4611a789-42df-4937-8491-3422804dbe91)| ![Card](https://github.com/user-attachments/assets/8f086022-0f4a-4f11-b9b9-88f959cd53a8) |
 
 ---
 
